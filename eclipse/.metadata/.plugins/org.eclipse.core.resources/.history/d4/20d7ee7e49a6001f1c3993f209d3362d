@@ -1,0 +1,60 @@
+package examenTablas;
+
+import java.util.Scanner;
+
+public class Examen18 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int votos[][];
+		votos = new int [30][20];
+		String codlocalidad[];
+		codlocalidad = new String [30];
+		Scanner sc = new Scanner(System.in);
+		String codpartido[];
+		codpartido = new String [20];
+		int localidades = 0;
+		int partido = 0;
+		boolean vacio = false;
+		String nombrepartido;
+		String nombrelocalidad;
+		boolean repetido = false;
+		System.out.println("1. Introducir votos obtenidos en una ciudad por un partido");
+		System.out.println("2. Listado alfabético por partidos de todos los datos introducidos");
+		System.out.println("3. Mejores resultados de cada partido");
+		System.out.println("4. Listado de localidades de menor a mayor participación");
+		System.out.println("5. Porcentaje de votos obtenido por cada partido en la comunidad");
+		System.out.println("6. Fin");
+		int opcion = sc.nextInt();
+		while (opcion != 6) {
+			switch(opcion) {
+			case 1:
+				System.out.println("Inserte la localidad a introducir");
+				nombrelocalidad = sc.next();
+				localidades = 0;
+				vacio = false;
+				repetido = false;
+				while (repetido == false & vacio == false & localidades < 30 & codlocalidad[localidades] != nombrelocalidad) {
+					if (codlocalidad[localidades] == null) {
+						vacio = true;
+					}
+					if (codlocalidad[localidades] == nombrelocalidad) {
+						repetido = true;
+					}
+					localidades++;
+				}
+				
+				codlocalidad[localidades-1] = nombrelocalidad;
+				
+				System.out.println("Inserte el partido a introducir en dicha localidad");
+				
+				
+				System.out.println("Inserte el número de votos del partido");
+				
+			}
+		}
+
+		sc.close();
+	}
+
+}

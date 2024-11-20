@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 packages to &apos;UnidadDos/src&apos;&#x0D;&#x0A;- Original project: &apos;PrimerProyecto&apos;&#x0D;&#x0A;- Destination element: &apos;UnidadDos/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     PrimerProyecto/src/bolexamen&#x0D;&#x0A;     PrimerProyecto/src/bol4&#x0D;&#x0A;     PrimerProyecto/src/bol2&#x0D;&#x0A;     PrimerProyecto/src/bolexamen2&#x0D;&#x0A;     PrimerProyecto/src/bol3&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=UnidadDos/src" element1="/src&lt;bolexamen" element2="/src&lt;bol4" element3="/src&lt;bol2" element4="/src&lt;bolexamen2" element5="/src&lt;bol3" flags="589830" fragments="5" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1729670238512" version="1.0"/>
+</session>

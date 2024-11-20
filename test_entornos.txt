@@ -1,0 +1,59 @@
+1.¿Cuál de estos ejemplos de software NO es del sistema?
+Correcto	PAINT
+Incorrecto	Windows
+Incorrecto	Drivers del panel táctil de un portátil
+Incorrecto	Firmware
+
+2.Marca la respuesta FALSA
+Correcto	EL procesador (CPU) lee los datos almacenados a través del disco duro
+Incorrecto	La memoria RAM almacena de forma temporal (hasta que es sobreescrita o borrada) los datos de archivos ejecutables, por ejemplo
+Incorrecto	El disco duro almacena los archivos ejecutables hasta que son borrados
+Incorrecto	Un LED es únicamente un dispositivo de salida
+
+3.Elige la respuesta verdadera
+Correcto	Al interpretar el resultado de compilar un código fuente, obtenemos un ejecutable binario
+Incorrecto	Al interpretar el resultado de compilar un código fuente, obtenemos un código objeto
+Incorrecto	Al compilar un código fuente, obtenemos un ejecutable binario
+Incorrecto	Al compilar un ejecutable binario, veremos el código fuente
+
+4.Marca la respuesta que ÚNICAMENTE tiene fases PRINCIPALES del desarrollo de software y además están ORDENADAS
+Correcto	Análisis, diseño, codificación, pruebas, mantenimiento
+Incorrecto	Diseño, codificación, pruebas de análisis, mantenimiento
+Incorrecto	Análisis, diseño, digitalización, codificación, trazas, pruebas, mantenimiento, explotación
+Incorrecto	Diseño, trazas, pseudocódigo, diagrama de flujo, codificación, mantenimiento
+
+5.Marca la comparación CORRECTA
+Correcto	La fase de análisis de software es igual que la de base de datos
+Incorrecto	La fase de pruebas es como hacer la traza de una pieza de pseudocódigo que funciona
+Incorrecto	Las pruebas de regresión son equivalentes a las de actualización
+Incorrecto	El mantenimiento evolutivo es como el perfectivo pero sin añadir nuevas funcionalidades
+
+6.ASSEMBLER (o ensamblador) es un lenguaje de programación que nos permite comunicarnos casi directamente con el procesador. Marca la respuesta correcta
+Correcto	Las pruebas (o simulaciones) se realizan mediante un archivo (o test bench) que obtiene todos los valores posibles de cada variable y el resultado del programa para cada combinación
+Incorrecto	Las pruebas (o simulaciones) se realizan mediante trazas
+Incorrecto	Las pruebas (o simulaciones) se realizan mediante un archivo (o test bench) que nos ayuda a seguir las trazas
+Incorrecto	ASSEMBLER es un lenguaje de alto nivel
+
+7. SCRUM. Elige la opción FALSA
+Correcto	Daily Scrum es la programación diaria
+Incorrecto	Scrum Planning es la reunión incial para organizar el trabajo
+Incorrecto	Scrum Review es la reunión final para valorar el producto obtenido
+Incorrecto	Scrum Retrospective es la reunión final para valorar la utilización de la metodología Scrum
+
+8. Marca la respuesta que sólo contiene lenguajes de programación
+Correcto	C, C++, Java, Python, Javascript
+Incorrecto	C, CSS, Java, Javascript
+Incorrecto	C++, HTML, Javascript, CSS
+Incorrecto	HTML, CSS, Javascript, XHTML
+
+9. Marca la respuesta FALSA
+Correcto	KANBAN es la única metodología que utiliza pizarras virtuales como trello
+Incorrecto	Tanto KANBAN como SCRUM utilizan pizarras virtuales
+Incorrecto	eXtreme Programming no utiliza pizarras virtuales
+Incorrecto	Todas son correctas
+
+10. Con respecto a lenguajes de programación...
+Correcto	Binario es el nivel más bajo posible
+Incorrecto	Al ser más difícil, binario tiene el nivel más alto
+Incorrecto	Cuanto más legible sea un lenguaje de programación, más bajo será su nivel, pues más procesos deberá llevar a cabo el ordenador para entenderlo
+Incorrecto	El pseudocódigo es invariable independientemente del país o del idioma

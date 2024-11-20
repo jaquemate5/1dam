@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Ángel\Documents\Ciclo\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3585759780.index
+2188473563.index
+2090971169.index
+1855244170.index
